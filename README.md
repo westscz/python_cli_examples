@@ -6,3 +6,8 @@ Examples of few CLI libraries
 - [ ] Google Fire
 - [ ] Docopt
 - [ ] Invoke
+- [ ] 
+
+Addons
+- [ ] tqdm
+- [ ] 
